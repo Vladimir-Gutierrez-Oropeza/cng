@@ -1,5 +1,5 @@
-#Integrantes:
-#Gutierrez Oropeza Vladimir Douglas
-#
+Integrantes:
+Gutierrez Oropeza Vladimir Douglas
+Zarate Chino Alan Wiler
 #
 #
